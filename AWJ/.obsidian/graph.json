@@ -1,0 +1,107 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path: \"Higher Education\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16741120
+      }
+    },
+    {
+      "query": "tag:#erzeung  ",
+      "color": {
+        "a": 1,
+        "rgb": 16730105
+      }
+    },
+    {
+      "query": "tag:#pensier",
+      "color": {
+        "a": 1,
+        "rgb": 9842431
+      }
+    },
+    {
+      "query": "tag:#raj",
+      "color": {
+        "a": 1,
+        "rgb": 15910736
+      }
+    },
+    {
+      "query": "tag:#umlilo",
+      "color": {
+        "a": 1,
+        "rgb": 16391710
+      }
+    },
+    {
+      "query": "tag:#alune",
+      "color": {
+        "a": 1,
+        "rgb": 8567027
+      }
+    },
+    {
+      "query": "tag:#askvadjr",
+      "color": {
+        "a": 1,
+        "rgb": 15461548
+      }
+    },
+    {
+      "query": "tag:#hava",
+      "color": {
+        "a": 1,
+        "rgb": 12772607
+      }
+    },
+    {
+      "query": "tag:#klorida",
+      "color": {
+        "a": 1,
+        "rgb": 2270993
+      }
+    },
+    {
+      "query": "tag:#shuieh",
+      "color": {
+        "a": 1,
+        "rgb": 26838
+      }
+    },
+    {
+      "query": "tag:#terra",
+      "color": {
+        "a": 1,
+        "rgb": 9649670
+      }
+    },
+    {
+      "query": "tag:#kjolik  ",
+      "color": {
+        "a": 1,
+        "rgb": 52479
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.3,
+  "nodeSizeMultiplier": 0.865625,
+  "lineSizeMultiplier": 0.814583333333333,
+  "collapse-forces": false,
+  "centerStrength": 0.46875,
+  "repelStrength": 11.25,
+  "linkStrength": 1,
+  "linkDistance": 160,
+  "scale": 0.05932617187500607,
+  "close": true
+}

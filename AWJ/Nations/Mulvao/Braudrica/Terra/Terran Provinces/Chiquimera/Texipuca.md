@@ -1,0 +1,2 @@
+# Texipuca
+Terra's capital. 

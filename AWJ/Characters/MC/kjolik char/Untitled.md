@@ -1,0 +1,7 @@
+# BRAINSTORM
+butch ofc
+
+POSSIBLE SPECIES: 
+- [[Frost Giant]]
+- NORMAL FUCKING WITCH
+
